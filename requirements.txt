@@ -2,3 +2,4 @@ fastapi
 uvicorn
 fastapi[all]
 gunicorn
+python-multipart
